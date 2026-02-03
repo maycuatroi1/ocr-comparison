@@ -1,0 +1,38 @@
+{
+  "Document.png": {
+    "success": true,
+    "text": "-B₁: thiếu 3mm,\n- Case ko bắt đc thì?\n↳ độ chính xác của trứng phèn?\nCái nào 100% thì bỏ\ntool (3mm)\nQ: Cơn số MM? a. Cường\nKiểm soát\nList các case\nout of scope:\n(thay thật?\nNew\n[Not clear]\nContest: Bình\nBok MR & Hung 15: Host: a. Cường\ncác\nđịnh lượng\nda clark tren x file\nQ: Các Case A] Bắt thiếu? Bình boss\nlist con\n4 list\nCách xử lý Routine dingrams.\nfile\nCase dan bat\n",
+    "elapsed_time": 3.939152717590332,
+    "model": "gemini-2.0-flash",
+    "prompt_type": "vietnamese",
+    "image_size": [
+      1239,
+      929
+    ],
+    "timestamp": "2026-02-03T15:51:31.522188"
+  },
+  "crazy-hand-writing.png": {
+    "success": true,
+    "text": "-B₁: thiếu 3mm,\n- Case ko bắt đc thì?\n↳ độ chính xác của trứng phèn?\nCái nào 100% thì bỏ. (hay that?)\nTool (3mm)\nQ: Cơn số MM? a. Cường\nKiểm soát\nV\nQ: Scope dự án? List các case\nout of scope:\nđịnh lượng Các\ncác case A] bắt thiếu? Bình đã check trên x file\nQ:\nboss\n4 list\nHet case of Litle\nmin giá ~1-2 thay đổi\nBook MR a Hưng 15: Content: Bình\nHost: a. Cường\nList con\n2.0 file?\nCase dan bat [không rõ]\nCách xử lý Routine diagrams.",
+    "elapsed_time": 4.311558961868286,
+    "model": "gemini-2.0-flash",
+    "prompt_type": "vietnamese",
+    "image_size": [
+      1239,
+      929
+    ],
+    "timestamp": "2026-02-03T15:51:35.833932"
+  },
+  "wild.png": {
+    "success": true,
+    "text": "CÂY LỘC VÙNG\nDO ĐỨC TÔ LÂM\nUVTW ĐANG\nTHỨ TRƯỞNG BỘ CÔNG AN\nTRỒNG NGÀY 15-2-2015",
+    "elapsed_time": 2.745424270629883,
+    "model": "gemini-2.0-flash",
+    "prompt_type": "vietnamese",
+    "image_size": [
+      697,
+      929
+    ],
+    "timestamp": "2026-02-03T15:51:38.579537"
+  }
+}

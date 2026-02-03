@@ -1,0 +1,14 @@
+# Common requirements
+Pillow>=10.0.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+
+# Gemini Flash (works on Mac M4)
+google-generativeai>=0.8.0
+
+# DeepSeek-OCR-2 requirements (CUDA only - use Colab)
+# torch==2.6.0
+# transformers>=4.45.0
+# flash-attn==2.7.3
+# vllm==0.8.5
+# pdf2image>=1.17.0
